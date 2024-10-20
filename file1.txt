@@ -3,3 +3,4 @@ Added feature A in file 1
 Added feature B in file 1
 File 1 has been fixed
 task6 changes
+task 6 addition
