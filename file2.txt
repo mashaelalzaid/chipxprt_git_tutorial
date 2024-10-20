@@ -1,3 +1,4 @@
 Initial setup complete in file 2
 Added feature A in file 2
 Added feature B in file 2
+This is a good commit in file 2
